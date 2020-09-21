@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import React, { Component } from 'react';
-import { StyleSheet, Text, View, Button, YellowBox, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, View, YellowBox, TouchableOpacity } from 'react-native';
 
 
 export default class App extends Component {
